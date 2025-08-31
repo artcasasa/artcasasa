@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Art Casasa  
+
+ <img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/ed22ada2-5136-4306-b57a-4f44beb23104" />
+ 
+ # 👋 Hi, I'm Art Casasa  
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=artcasasa&label=Profile%20Views&color=blue&style=flat)
 
 🚀 **Driving Competitive Edge through Business Transformation and Technological Innovation**  
