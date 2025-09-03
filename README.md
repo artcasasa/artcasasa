@@ -1,7 +1,4 @@
-<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/ed22ada2-5136-4306-b57a-4f44beb23104" />
-
 # 👋 Hi, I'm Art Casasa  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=artcasasa&label=Profile%20Views&color=blue&style=flat)
 
 🚀 **Driving Competitive Edge through Business Transformation and Technological Innovation**  
@@ -18,7 +15,6 @@
 - 📊 **Program & Portfolio Management** – Leading large-scale engineering & operations portfolios.  
 - ⚙️ **Operational Excellence** – Agile, Lean, Six Sigma Black Belt, Toyota Production System.  
 - 🌍 **Global Leadership** – Building and leading high-performing teams (180+ members).  
-- 🌐 **AI Ethics & Standards** – Promoting responsible AI and global standards development.  
 
 ---
 
@@ -27,20 +23,44 @@
 - **Symbotic (2020–2021)**: Standardized PMO across functions, delivered automation platforms powering Walmart’s NA warehouse network.  
 - **Schlumberger (2015–2020)**: Directed $250M EPC projects, reduced time-to-market by 60%, cut $20M in expenses through portfolio management.  
 - **Pentair (2012–2015)**: Reduced new product time-to-market by 60% and delivered $80M+ savings via global pricing transformation.  
-- **ISO-US Delegate**: Representing the U.S. globally in developing standards for **Project, Programme, and Portfolio Management**.  
 
 ---
 
-## 🎓 Education & Certifications  
-🎓 **Master of AI** *(Expected 2025)* | Master of Finance | MBA | M.Sc. in Manufacturing Engineering | B.Sc. in Mechanical & Industrial Engineering  
+## 🎓 Education  
+- Master of AI *(Expected 2025)*  
+- Master of Finance  
+- MBA  
+- M.Sc. in Manufacturing Engineering  
+- B.Sc. in Mechanical & Industrial Engineering  
 
-📜 **Certifications:**  
-- Project Management: PMP, PgMP, PfMP, PMI-RMP, PMI-ACP  
-- Agile & Quality: CSSBB, CSM, CSPO  
-- Advanced Programs: AI/ML (UT Austin), Data Monetization (MIT Sloan), Strategy (Harvard, Cornell)  
+---
 
-📚 **Other Studies:**  
-- Multiple professional certifications in AI, Data, Strategy, and Leadership (details available upon request).  
+## 🏆 Professional Certifications  
+- Portfolio Management Professional (PfMP)  
+- Program Management Professional (PgMP)  
+- Project Management Professional (PMP)  
+- Risk Management Professional (PMI-RMP)  
+- Agile Practitioner (PMI-ACP)  
+- Certified Scrum Product Owner® (CSPO®)  
+- Certified ScrumMaster® (CSM®)  
+- Certified Six Sigma Black Belt (CSSBB)  
+- Prosci Certified Change Practitioner  
+
+---
+
+## 📜 Certificates & Specializations
+*(Selected highlights – see [full list here](./CERTIFICATES.md))*  
+
+- Deep Learning Specialization – DeepLearning.AI  
+- Machine Learning Specialization – DeepLearning.AI  
+- Mathematics for Machine Learning and Data Science – DeepLearning.AI  
+- AWS Cloud Solutions Architect Professional Certificate – AWS  
+- Google Cloud Digital Leader Training – Google  
+- Agile Development – University of Virginia (Darden)  
+- Digital Product Management – University of Virginia (Darden)  
+- Data Monetization Strategy – MIT Sloan  
+- Disruptive Strategy – Harvard Business School  
+- Business Strategy & Competitive Advantage – Cornell University  
 
 ---
 
@@ -51,11 +71,6 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-311C87?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF4088?style=for-the-badge&logo=opencv&logoColor=white)  
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-006600?style=for-the-badge&logo=openai&logoColor=white)  
-![Natural Language Processing](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=ai&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
 ### ⚙️ Frameworks & Methods  
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)  
@@ -64,20 +79,10 @@
 ![Lean](https://img.shields.io/badge/Lean-FF5722?style=for-the-badge&logo=leanpub&logoColor=white)  
 
 ### 🌍 Industry Expertise  
-Robotics | Automated Warehouse Systems | SaaS | Automotive | Oil & Gas | Medical Simulation | Industrial Automation | AI Ethics  
+Robotics | Automated Warehouse Systems | SaaS | Automotive | Oil & Gas | Medical Simulation | Industrial Automation  
 
 ---
-
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/artcasasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="http://www.artcasasa.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="mailto:arturo.casasa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=artcasasa&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 📊 GitHub Stats  
 
@@ -100,6 +105,13 @@ Robotics | Automated Warehouse Systems | SaaS | Automotive | Oil & Gas | Medical
 
 ---
 
-✨ *“I build strategies, teams, and technologies that transform businesses and deliver measurable impact.”*  
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/artcasasa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://www.artcasasa.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:arturo.casasa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
 
 ---
+
+✨ *“I build strategies, teams, and technologies that transform businesses and deliver measurable impact.”*  
