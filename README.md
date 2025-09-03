@@ -1,11 +1,14 @@
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/ed22ada2-5136-4306-b57a-4f44beb23104" />
+
 # 👋 Hi, I'm Art Casasa  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=artcasasa&label=Profile%20Views&color=blue&style=flat)
 
 🚀 **Driving Competitive Edge through Business Transformation and Technological Innovation**  
 
 💼 **Senior Engineering & Program Management Leader** with 20+ years of experience transforming underperforming operations into high-performance systems. I specialize in bridging **business strategy and technology** to deliver innovative solutions in **robotics, electro-mechanical systems, SaaS, AI/ML, cloud computing, and automation**.  
 
-🌎 Bilingual leader (English & Spanish) with a track record of scaling organizations globally — delivering **$250M+ in annual sales** and managing portfolios worth **$75M+ investments**.  
+🌎 Bilingual leader (English & Spanish) with a track record of scaling organizations globally  delivering **$250M+ in annual sales** and managing portfolios worth **$75M+ investments**.  
 
 ---
 
@@ -48,7 +51,7 @@
 
 ---
 
-## 📜 Certificates & Specializations
+## 📜 Certificates & Specializations  
 *(Selected highlights – see [full list here](./CERTIFICATES.md))*  
 
 - Deep Learning Specialization – DeepLearning.AI  
@@ -82,6 +85,7 @@
 Robotics | Automated Warehouse Systems | SaaS | Automotive | Oil & Gas | Medical Simulation | Industrial Automation  
 
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=artcasasa&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats  
