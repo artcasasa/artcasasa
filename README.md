@@ -8,7 +8,7 @@
 
 💼 **Senior Engineering & Program Management Leader** with 20+ years of experience transforming underperforming operations into high-performance systems. I specialize in bridging **business strategy and technology** to deliver innovative solutions in **robotics, electro-mechanical systems, SaaS, AI/ML, cloud computing, and automation**.  
 
-🌎 Bilingual leader (English & Spanish) with a track record of scaling organizations globally  delivering **$250M+ in annual sales** and managing portfolios worth **$75M+ investments**.  
+🌎 Bilingual leader (English & Spanish) with a track record of scaling organizations globally delivering **$250M+ in annual sales** and managing portfolios worth **$75M+ investments**.  
 
 ---
 
@@ -71,6 +71,7 @@
 
 ### 🚀 Programming & Data  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-311C87?style=for-the-badge&logo=pytorch&logoColor=white)  
