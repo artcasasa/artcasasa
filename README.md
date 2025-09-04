@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/ed22ada2-5136-4306-b57a-4f44beb23104" />
+
+<img width="1584" height="396" alt="bg" src="https://github.com/user-attachments/assets/3bb92411-aa1d-4762-a998-4756a945062e" />
 
 # 👋 Hi, I'm Art Casasa  
 
